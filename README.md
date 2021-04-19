@@ -2,6 +2,6 @@
 
 # MySQL-docs
 
-# Postgres-docs
+# PostgreSQL-docs
 
 # MongoDB-docs
